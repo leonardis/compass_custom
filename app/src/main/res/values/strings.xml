@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bellatrix Test</string>
+
+    <string name="north_initial">%d° N</string>
+    <string name="north_east_initial">%d° NE</string>
+    <string name="east_initial">%d° E</string>
+    <string name="south_east_initial">%d° SE</string>
+    <string name="south_initial">%d° S</string>
+    <string name="south_west_initial">%d° SW</string>
+    <string name="west_initial">%d° W</string>
+    <string name="north_west_initial">%d° NW</string>
+</resources>
